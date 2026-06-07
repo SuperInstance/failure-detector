@@ -1,0 +1,9 @@
+[package]
+name = "failure-detector"
+version = "0.1.0"
+edition = "2021"
+description = "Phi accrual failure detection for distributed systems using statistical heartbeat analysis to compute suspicion levels"
+license = "MIT"
+repository = "https://github.com/SuperInstance/failure-detector"
+
+[dependencies]
